@@ -1,0 +1,26 @@
+[
+  {
+    "id": "py_1",
+    "topic": "python",
+    "difficulty": "easy",
+    "question": "What is the output of print(len([1,2,3]))?",
+    "options": ["1", "2", "3", "Error"],
+    "answer": 2
+  },
+  {
+    "id": "sql_1",
+    "topic": "sql",
+    "difficulty": "easy",
+    "question": "Which SQL clause is used to filter the results?",
+    "options": ["ORDER BY", "GROUP BY", "WHERE", "HAVING"],
+    "answer": 2
+  },
+  {
+    "id": "react_1",
+    "topic": "react",
+    "difficulty": "easy",
+    "question": "Which hook is used for state in functional components?",
+    "options": ["useEffect", "useMemo", "useState", "useRef"],
+    "answer": 2
+  }
+]

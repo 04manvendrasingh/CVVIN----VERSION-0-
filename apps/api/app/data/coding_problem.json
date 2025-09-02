@@ -1,0 +1,5 @@
+{
+  "id": "sum_two",
+  "title": "Sum Two Numbers — implement solve(a,b)",
+  "tests": [{ "input": [1, 2], "output": 3 }, { "input": [5, 7], "output": 12 }, { "input": [-1, 4], "output": 3 }]
+}
